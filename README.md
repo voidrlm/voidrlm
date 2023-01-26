@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidrlm)](https://github.com/voidrlms)
+[![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidrlm&show_icons=true&theme=dark)](https://github.com/voidrlm)
 
 
 - 🔭 I’m currently working on ...
