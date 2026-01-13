@@ -70,13 +70,6 @@ Emotion based music player using AI, crypto dashboards, metadata extraction tool
 - Delivered a complete SaaS product independently under investor driven timelines  
 - Platform supports fundraising and is valued at over $2.4M USD  
 
----
-
-## 📊 GitHub Stats  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voidrlm&layout=compact&hide_border=true)
-
----
 
 ## 📜 Certifications  
 
